@@ -1,5 +1,1 @@
-# Page
-
-![asfasfasf](kurgyz.jpg)
-__Project__
-
+# Panel for working with a person
