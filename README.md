@@ -14,6 +14,7 @@ Application use:
 - MySql
 - Jsp with jstl
 - Css
+- Tomcat 9
 
 ## Installation
 The panel operation looks like this
